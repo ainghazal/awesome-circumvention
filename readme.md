@@ -7,7 +7,7 @@
 - [Protocols](#protocols)
 - [Libraries](#libraries)
 - [Tools](#tools)
-- [Forums](#forums)
+- [Discussion](#discussion)
 - [Research](#research)
 - [Events](#events)
 - [Contribute](#contribute)
@@ -18,12 +18,13 @@
 
 ### Tunneling protocols
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [OpenVPN](http://example.com)
+- [WireGuard](http://example.com)
 
 ### Fully Obfuscated Protocols
 
-- [List item](http://example.com)
+- [Shadowsocks](http://example.com)
+- [obfs4](http://example.com)
 - [List item](http://example.com)
 
 ## Libraries
@@ -32,7 +33,12 @@
 
 ### Go
 
-- [List item](http://example.com)
+- [gost](https://github.com/ginuerzh/gost) Go Simple Tunnel is a polyglot multi-purpose proxy that speaks differen obfuscation protocols. Has cool features like dynamic service configuration.
+- [dnstt](https://www.bamsoftware.com/git/dnstt.git/) Userspace DNS tunnel with support for DoH and DoT
+
+### Python
+
+- [DPYProxy](https://github.com/UPB-SysSec/DPYProxy) A python proxy that implements DPI evasion mechanisms. Currently, TLS record fragmentation and TCP Fragmentation are implemented.
 - [List item](http://example.com)
 
 ### Rust
@@ -40,10 +46,6 @@
 - [List item](http://example.com)
 - [List item](http://example.com)
 
-### Python
-
-- [List item](http://example.com)
-- [List item](http://example.com)
 
 ## Tools
 
@@ -51,9 +53,16 @@
 
 ### Provisioning
 
+- [Outline Server](https://github.com/Jigsaw-Code/outline-server) An Outline server runs instances of Shadowsocks proxies and provides an API used by the Outline Manager application.
+
 ### Clients
 
-## Forums
+- [AmneziaVPN](https://github.com/amnezia-vpn/amnezia-client) Amnezia is an
+open-source VPN client, with a key feature that enables you to deploy your
+own VPN server. It uses the OpenVPN, WireGuard, Shadowsocks, IKev2 and Cloak
+protocols. 
+
+## Discussion
 
 - [https://ntc.party](https://ntc.party/)
 - [https://github.com/net4people/bbs](https://github.com/net4people/bbs)
@@ -73,6 +82,10 @@
 
 - [List item](http://example.com)
 - [List item](http://example.com)
+
+### Organizations 
+
+- [https://roskomsvoboda.org/en/](https://roskomsvoboda.org/en/)
 
 ## Events
 
