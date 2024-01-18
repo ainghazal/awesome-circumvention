@@ -5,10 +5,10 @@
 ## Contents
 
 - [Protocols](#protocols)
-- [Libraries](#libraries)
 - [Tools](#tools)
-- [Discussion](#discussion)
+- [Libraries](#libraries)
 - [Research](#research)
+- [Discussion](#discussion)
 - [Events](#events)
 - [Contribute](#contribute)
 
@@ -27,26 +27,6 @@
 - [obfs4](http://example.com)
 - [List item](http://example.com)
 
-## Libraries
-
-> Libraries and toolkits to build your own tools.
-
-### Go
-
-- [gost](https://github.com/ginuerzh/gost) Go Simple Tunnel is a polyglot multi-purpose proxy that speaks differen obfuscation protocols. Has cool features like dynamic service configuration.
-- [dnstt](https://www.bamsoftware.com/git/dnstt.git/) Userspace DNS tunnel with support for DoH and DoT
-
-### Python
-
-- [DPYProxy](https://github.com/UPB-SysSec/DPYProxy) A python proxy that implements DPI evasion mechanisms. Currently, TLS record fragmentation and TCP Fragmentation are implemented.
-- [List item](http://example.com)
-
-### Rust
-
-- [List item](http://example.com)
-- [List item](http://example.com)
-
-
 ## Tools
 
 > Circumvention solutions, or tools that incorporate some form of circumvention.
@@ -61,6 +41,28 @@
 open-source VPN client, with a key feature that enables you to deploy your
 own VPN server. It uses the OpenVPN, WireGuard, Shadowsocks, IKev2 and Cloak
 protocols. 
+
+## Libraries
+
+> Libraries and toolkits to build your own tools.
+
+### Go
+
+- [dnstt](https://www.bamsoftware.com/git/dnstt.git/) Userspace DNS tunnel with support for DoH and DoT
+- [gost](https://github.com/ginuerzh/gost) Go Simple Tunnel is a polyglot multi-purpose proxy that speaks differen obfuscation protocols. Has cool features like dynamic service configuration.
+- [gluetun vpn client](https://github.com/qdm12/gluetun) Dockerized, multi-provider VPN.
+- [v2ray-core](https://github.com/v2fly/v2ray-core) 
+
+### Python
+
+- [DPYProxy](https://github.com/UPB-SysSec/DPYProxy) A python proxy that implements DPI evasion mechanisms. Currently, TLS record fragmentation and TCP Fragmentation are implemented.
+- [geneva](https://github.com/Kkevsterrr/geneva) automated censorship evasion for the client-side and server-side.
+- [List item](http://example.com)
+
+### Rust
+
+- [List item](http://example.com)
+- [List item](http://example.com)
 
 ## Discussion
 
@@ -86,8 +88,12 @@ protocols.
 ### Organizations 
 
 - [https://roskomsvoboda.org/en/](https://roskomsvoboda.org/en/)
+- [Project X](https://xtls.github.io/en/) Home of XTLS, Xray, V2Ray
 
 ## Events
+
+- [List item](http://example.com)
+- [List item](http://example.com)
 
 ## Contribute
 
