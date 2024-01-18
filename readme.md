@@ -27,6 +27,10 @@
 - [obfs4](http://example.com)
 - [List item](http://example.com)
 
+### Pluggable Transports
+
+- [Pluggable Transport Specification](https://spec.torproject.org/pt-spec/)
+
 ## Tools
 
 > Circumvention solutions, or tools that incorporate some form of circumvention.
@@ -48,21 +52,23 @@ protocols.
 
 ### Go
 
+- [cloak](https://github.com/cbeuw/Cloak) A pluggable transport.
 - [dnstt](https://www.bamsoftware.com/git/dnstt.git/) Userspace DNS tunnel with support for DoH and DoT
-- [gost](https://github.com/ginuerzh/gost) Go Simple Tunnel is a polyglot multi-purpose proxy that speaks differen obfuscation protocols. Has cool features like dynamic service configuration.
 - [gluetun vpn client](https://github.com/qdm12/gluetun) Dockerized, multi-provider VPN.
+- [gost](https://github.com/ginuerzh/gost) Go Simple Tunnel is a polyglot multi-purpose proxy that speaks differen obfuscation protocols. Has cool features like dynamic service configuration.
+- [snowflake](https://github.com/keroserene/snowflake) Pluggable Transport using WebRTC, inspired by Flashproxy.
+- [swgp-go](https://github.com/database64128/swgp-go) 🐉 Simple WireGuard proxy with minimal overhead for WireGuard traffic.
 - [v2ray-core](https://github.com/v2fly/v2ray-core) 
 
 ### Python
 
 - [DPYProxy](https://github.com/UPB-SysSec/DPYProxy) A python proxy that implements DPI evasion mechanisms. Currently, TLS record fragmentation and TCP Fragmentation are implemented.
 - [geneva](https://github.com/Kkevsterrr/geneva) automated censorship evasion for the client-side and server-side.
-- [List item](http://example.com)
 
 ### Rust
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [arti](https://tpo.pages.torproject.net/core/arti/) Tor, in rust.
+- [proteus](https://github.com/unblockable/proteus) Programmable Protocols for Censorship Circumvention.
 
 ## Discussion
 
