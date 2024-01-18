@@ -9,6 +9,7 @@ project you agree to abide by its terms.
 Ensure your pull request adheres to the following guidelines:
 
 - Links should explain why are they awesome.
+- No endorsement of providers, tools, etc that are not open-sourced and community driven, sorry.
 
 Thank you for your suggestions!
 
