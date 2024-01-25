@@ -96,9 +96,10 @@ protocols.
 
 ### Organizations 
 
-- [https://roskomsvoboda.org/en/](https://roskomsvoboda.org/en/)
-- [Project X](https://xtls.github.io/en/) Home of XTLS, Xray, V2Ray
 - [Censored Planet](https://censoredplanet.org/)
+- [CensorFail](https://censor.fail/)
+- [Project X](https://xtls.github.io/en/) Home of XTLS, Xray, V2Ray
+- [Roskomsvoboda](https://roskomsvoboda.org/en/)
 - [OONI](https://ooni.org/)
 
 ## Events
