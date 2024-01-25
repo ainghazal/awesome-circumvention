@@ -84,25 +84,25 @@ protocols.
 
 ### Paper Collections
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [CensorBib](https://censorbib.nymity.ch/)
 
 ### Theses
 
-- [Phillipp Winter (2014). Measuring and circumventing Internet censorship](http://www.diva-portal.org/smash/get/diva2:758124/FULLTEXT01.pdf)
-- [Tariq Elahi (2015). Towards more Effective Censorship Resistance Systems](https://uwspace.uwaterloo.ca/bitstream/handle/10012/9744/Elahi_MohammadTariq.pdf?sequence=1)
-- [David Fifield (2017). Threat modeling and circumvention of Internet censorship](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2017/EECS-2017-225.html)
-- [Cecylia Bocovich (2018). Recipes for Resistance: A Censorship Circumvention Cookbook](https://uwspace.uwaterloo.ca/handle/10012/13595)
+- [Measuring and circumventing Internet censorship](http://www.diva-portal.org/smash/get/diva2:758124/FULLTEXT01.pdf) Phillipp Winter (2014).
+- [Towards more Effective Censorship Resistance Systems](https://uwspace.uwaterloo.ca/bitstream/handle/10012/9744/Elahi_MohammadTariq.pdf?sequence=1) Tariq Elahi (2015). 
+- [Threat modeling and circumvention of Internet censorship](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2017/EECS-2017-225.html) David Fifield (2017). 
+- [Recipes for Resistance: A Censorship Circumvention Cookbook](https://uwspace.uwaterloo.ca/handle/10012/13595) Cecylia Bocovich (2018). 
 
 ### Organizations 
 
 - [https://roskomsvoboda.org/en/](https://roskomsvoboda.org/en/)
 - [Project X](https://xtls.github.io/en/) Home of XTLS, Xray, V2Ray
+- [Censored Planet](https://censoredplanet.org/)
+- [OONI](https://ooni.org/)
 
 ## Events
 
-- [List item](http://example.com)
-- [List item](http://example.com)
+- [FOCI](https://foci.community/) Free and Open Coomunications on the Internet
 
 ## Contribute
 
