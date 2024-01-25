@@ -59,6 +59,7 @@ protocols.
 - [snowflake](https://github.com/keroserene/snowflake) Pluggable Transport using WebRTC, inspired by Flashproxy.
 - [swgp-go](https://github.com/database64128/swgp-go) 🐉 Simple WireGuard proxy with minimal overhead for WireGuard traffic.
 - [v2ray-core](https://github.com/v2fly/v2ray-core) 
+- [water](https://github.com/gaukas/water) W.A.T.E.R.: WebAssembly Transport Executables Runtime
 
 ### Python
 
