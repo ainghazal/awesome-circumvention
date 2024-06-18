@@ -54,7 +54,7 @@ protocols.
 
 ### Go
 
-- [bepass][https://github.com/bepass-org/bepass] Bepass is an advanced tool designed to bypass Iran's Deep Packet Inspection (DPI) system using a TLS client hello splitting attack. It also enables the deployment of a VLESS-like proxy on Cloudflare Workers.
+- [bepass](https://github.com/bepass-org/bepass) Bepass is an advanced tool designed to bypass Iran's Deep Packet Inspection (DPI) system using a TLS client hello splitting attack. It also enables the deployment of a VLESS-like proxy on Cloudflare Workers.
 - [cloak](https://github.com/cbeuw/Cloak) A pluggable transport.
 - [dnstt](https://www.bamsoftware.com/git/dnstt.git/) Userspace DNS tunnel with support for DoH and DoT
 - [gluetun vpn client](https://github.com/qdm12/gluetun) Dockerized, multi-provider VPN.
