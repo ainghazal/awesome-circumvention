@@ -46,11 +46,7 @@ open-source VPN client, with a key feature that enables you to deploy your
 own VPN server. It uses the OpenVPN, WireGuard, Shadowsocks, IKev2 and Cloak
 protocols. 
 - [psiphon](https://github.com/Psiphon-Inc/psiphon)
-- [warp-plus](https://github.com/bepass-org/warp-plus) Warp-Plus is an
-- open-source implementation of Cloudflare's Warp, enhanced with Psiphon
-- integration for circumventing censorship. This project aims to provide a
-- robust and cross-platform VPN solution that can use psiphon on top of warp
-- and warp-in-warp for changing the user virtual nat location.
+- [warp-plus](https://github.com/bepass-org/warp-plus) Warp-Plus is an open-source implementation of Cloudflare's Warp, enhanced with Psiphon integration for circumventing censorship.
 
 ## Libraries
 
@@ -78,6 +74,12 @@ protocols.
 
 - [arti](https://tpo.pages.torproject.net/core/arti/) Tor, in rust.
 - [proteus](https://github.com/unblockable/proteus) Programmable Protocols for Censorship Circumvention.
+
+### Operative Systems
+
+- [hoogmoon-testing](https://github.com/ValdikSS/hoogmoon-testing) Preconfigured operating system image for reliable remote access to the Linux shell inside the image over the Internet in general, for long-running network interference/censorship tests in particular.
+
+
 
 ## Discussion
 
