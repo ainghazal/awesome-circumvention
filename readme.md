@@ -46,6 +46,11 @@ open-source VPN client, with a key feature that enables you to deploy your
 own VPN server. It uses the OpenVPN, WireGuard, Shadowsocks, IKev2 and Cloak
 protocols. 
 - [psiphon](https://github.com/Psiphon-Inc/psiphon)
+- [warp-plus](https://github.com/bepass-org/warp-plus) Warp-Plus is an
+- open-source implementation of Cloudflare's Warp, enhanced with Psiphon
+- integration for circumventing censorship. This project aims to provide a
+- robust and cross-platform VPN solution that can use psiphon on top of warp
+- and warp-in-warp for changing the user virtual nat location.
 
 ## Libraries
 
@@ -53,10 +58,12 @@ protocols.
 
 ### Go
 
+- [bepass][https://github.com/bepass-org/bepass] Bepass is an advanced tool designed to bypass Iran's Deep Packet Inspection (DPI) system using a TLS client hello splitting attack. It also enables the deployment of a VLESS-like proxy on Cloudflare Workers.
 - [cloak](https://github.com/cbeuw/Cloak) A pluggable transport.
 - [dnstt](https://www.bamsoftware.com/git/dnstt.git/) Userspace DNS tunnel with support for DoH and DoT
 - [gluetun vpn client](https://github.com/qdm12/gluetun) Dockerized, multi-provider VPN.
 - [gost](https://github.com/ginuerzh/gost) Go Simple Tunnel is a polyglot multi-purpose proxy that speaks differen obfuscation protocols. Has cool features like dynamic service configuration.
+- [outline SDK](https://github.com/Jigsaw-Code/outline-sdk) A library to add network-level interference protection to existing apps.
 - [snowflake](https://github.com/keroserene/snowflake) Pluggable Transport using WebRTC, inspired by Flashproxy.
 - [swgp-go](https://github.com/database64128/swgp-go) 🐉 Simple WireGuard proxy with minimal overhead for WireGuard traffic.
 - [v2ray-core](https://github.com/v2fly/v2ray-core) 
@@ -105,6 +112,11 @@ protocols.
 ## Events
 
 - [FOCI](https://foci.community/) Free and Open Coomunications on the Internet
+
+## Region specific
+
+- [Great Firewall Report](https://gfw.report/)
+- [DPI detector](https://dpidetector.org/en/) VPN Protocols Availability Monitoring in Russia
 
 ## Contribute
 
