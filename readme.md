@@ -74,6 +74,7 @@ protocols.
 
 - [arti](https://tpo.pages.torproject.net/core/arti/) Tor, in rust.
 - [proteus](https://github.com/unblockable/proteus) Programmable Protocols for Censorship Circumvention.
+- [wstunnel](https://github.com/erebe/wstunnel) Tunnel all your traffic over Websockets or HTTP2
 
 ### Operative Systems
 
