@@ -26,6 +26,7 @@
 - [Shadowsocks](http://example.com)
 - [obfs4](http://example.com)
 - [List item](http://example.com)
+- [loft](https://github.com/a3app/loft) Overlay protocol loft/1.0: HTTPS-shaped fronts (GET/WS/H2/QUIC/H3), mux, ChaCha20-Poly1305.
 
 ### Pluggable Transports
 
@@ -47,6 +48,7 @@ own VPN server. It uses the OpenVPN, WireGuard, Shadowsocks, IKev2 and Cloak
 protocols. 
 - [psiphon](https://github.com/Psiphon-Inc/psiphon)
 - [warp-plus](https://github.com/bepass-org/warp-plus) Warp-Plus is an open-source implementation of Cloudflare's Warp, enhanced with Psiphon integration for circumventing censorship.
+- [loft](https://github.com/a3app/loft) Spec and reference Go node plus clients (macOS, Linux CLI, iOS, Android, Keenetic) for the loft overlay.
 
 ## Libraries
 
